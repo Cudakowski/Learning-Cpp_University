@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic -Wl,--dependency-file=CMakeFiles/Array.dir/link.d CMakeFiles/Array.dir/main.cpp.o CMakeFiles/Array.dir/src/Array.cpp.o -o Array

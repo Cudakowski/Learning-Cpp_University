@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "struct_a.h": "c",
+        "struct_k.h": "c",
+        "struct_g.h": "c"
+    }
+}
